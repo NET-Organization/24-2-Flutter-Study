@@ -1,5 +1,0 @@
-*.html linguist-vendored
-*.css linguist-vendored
-*.javascript linguist-vendored
-*.c++ linguist-vendored
-*.dart linguist-vendored=false
