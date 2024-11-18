@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
           appBar: AppBar(
             centerTitle: true,
             title: Text(
-              'Hello Flutter',
+              '딱 한 잔',
               style: TextStyle(fontSize: 28),
             ),
           ),
